@@ -9,7 +9,7 @@ const Cockies = () => {
         <p>Cookie: pequeña cantidad de datos generados por un sitio web y guardados por su navegador web. Se utiliza para identificar su navegador, proporcionar análisis, recordar información sobre usted, como su preferencia de idioma o información de inicio de sesión. 
         </p>
 
-        <h1>Tipos de Cookiess</h1>
+        <h1>Tipos de Cookies</h1>
 
         <h5>Cookies Esenciales</h5>
         <p>Propósito: Necesarias para el funcionamiento básico de la plataforma.</p>
