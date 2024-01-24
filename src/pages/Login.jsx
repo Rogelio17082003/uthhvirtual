@@ -6,6 +6,7 @@ import { RiLockPasswordLine } from "react-icons/ri";
 import '../assets/styles/login.css';  
 
 const Login = () => {
+  
   return (
     <div>
       <Navbar bg="light" expand="lg" style={{ borderBottom: '2px solid #ccc' }}>
