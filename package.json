@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@mdi/js": "^7.3.67",
-   
+    "@mdi/js": "^7.3.67"
+    
   },
   "scripts": {
     "start": "react-scripts start",
